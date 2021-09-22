@@ -17,15 +17,18 @@ class VolunteerRVAdapter(
     var data: MutableList<String> = mutableListOf<String>()
 ) :
     RecyclerView.Adapter<VolunteerRVAdapter.VolunteerHolder>() {
+
+    class VolunteerHolder(view: View) : RecyclerView.ViewHolder(view) {
+        var name: TextView = view.findViewById(R.id.name)
+    }
+
+
     /**
      *  TODO: Create an inner class that will hold the view. Make sure it inherits from the correct
      *  class. Provide properties that will store references to the view elements. Connect the view
      *  elements to the properties.
      */
 
-    class VolunteerHolder(view: View) : RecyclerView.ViewHolder(view) {
-        var name: TextView = view.findViewById(R.id.name)
-    }
 
     /**
      * TODO: Implement the three required methods for a RecyclerView adapter. One method is
