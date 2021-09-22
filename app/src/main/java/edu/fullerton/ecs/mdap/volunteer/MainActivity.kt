@@ -8,8 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         // TODO: Setup data binding for activity_main.xml.
 
-        // TODO: Create a mutableList to hold volunteer name data
-
         // TODO: Create a RecyclerView adapter object and assign it to the RecyclerView.
 
         // TODO: Handle onClick events on the "Add Volunteer" button.
