@@ -5,7 +5,14 @@ import android.os.Bundle
 import edu.fullerton.ecs.mdap.volunteer.adapter.VolunteerRVAdapter
 import edu.fullerton.ecs.mdap.volunteer.databinding.ActivityMainBinding
 
+/**
+ * Displays the main screen of the Volunteer application.
+ */
 class MainActivity : AppCompatActivity() {
+
+    /**
+     * Sets up the layout and interactions with the main screen of the application.
+     */
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         // TODO: Setup data binding for activity_main.xml.
