@@ -8,7 +8,7 @@ Create an application that collects volunteer information and adds it to a list 
 ## Instructions
 You are given starter code so you can focus on the learning objectives of the lab exercise. You are encouraged to use the files and code already provided for you, but feel free to create your own. You will get full points as long as you follow the requirements.
 
-### List of files with started code:
+### List of files with starter code:
 1. build.gradle (Module: Volunteer.app)
 1. app > java > edu.fullerton.ecs.mdap.volunteer > MainActivity.kt
 1. app > java > edu.fullerton.ecs.mdap.volunteer.adapter > VolunteerRVAdapter
