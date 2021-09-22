@@ -3,5 +3,10 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
     <!-- Create a layout that will display the name on the recycler view. -->
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
