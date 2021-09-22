@@ -2,7 +2,7 @@
 Create an application that collects volunteer information and adds it to a list of volunteers.
 
 ## Requirements
-1. Use data binding to retrieve values from view elements (e.g., volunteer name) and manipulate view elements (e.g., OnClickListeners).a
+1. Use data binding to retrieve values from view elements (e.g., volunteer name) and manipulate view elements (e.g., OnClickListeners).
 1. Use a RecyclerView to display the list of volunteers.
 
 ## Instructions
