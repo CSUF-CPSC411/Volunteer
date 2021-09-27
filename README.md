@@ -17,3 +17,5 @@ You are given starter code so you can focus on the learning objectives of the la
 1. res > layout > volunteer_list_item.xml
 
 Look at the TODO comments on the starter code to give you hints on what you need to create.
+
+**Make sure you delete the TODO comments after you complete it. The compiler fails when it sees a TODO item.**
